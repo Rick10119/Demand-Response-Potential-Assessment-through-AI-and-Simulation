@@ -1,6 +1,8 @@
 # DPAAS: A Data-Driven Framework for Assessing Building Demand Response Potential at Scale
 
-This repository contains the code for the paper "DPAAS: A Data-Driven Framework for Assessing Building Demand Response Potential at Scale," submitted to IEEE PESGM 2025.
+This repository contains the code for the paper:
+
+Ruoxu Chen, Zhuofan Tang, Ruike Lyu, Qingrong Zheng, Haotian Song, Hongye Guo*. Combining AI and Simulation to Assess Building Demand Response Potential at Scale. 2025 IEEE 5th International Conference on Advances in Electrical, Electronics and Computing Technology (EECT 2025), Guangzhou, China: IEEE; 2025. (accepted, Best Paper)
 
 ## Table of Contents
 
