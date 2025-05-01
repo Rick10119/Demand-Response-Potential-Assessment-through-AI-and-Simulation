@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ea565a28-3da8-4291-aca6-43a6d88f39fa)
+
 # DPAAS: A Data-Driven Framework for Assessing Building Demand Response Potential at Scale
 
 This repository contains the code for the paper:
